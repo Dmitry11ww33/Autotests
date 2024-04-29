@@ -1,0 +1,2 @@
+# Autotests
+Auto test DIPLOM

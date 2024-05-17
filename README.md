@@ -15,7 +15,7 @@ elem.clear()
 elem.send_keys("89959147261")
 elem = driver.find_element(By.XPATh, "//*[@id='USER_PASSWORD']")
 elem.clear()
-elem.send_keys("123")
+elem.send_keys("1223")
 elem.send_keys(Keys.ENTER)
 #
 time.sleep(7)
